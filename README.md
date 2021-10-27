@@ -14,3 +14,5 @@ Appdelegate.m 中导入头文件 #import "SSTabbarViewController.h"
     [self.window makeKeyAndVisible];
     
 即可。
+
+增加iOS 15导航适配
